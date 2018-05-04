@@ -1,6 +1,11 @@
 # gestion-des-emplois-du-temps
 Application de gestion des emplois du temps
 
+## Membres du groupe
+- ALOU
+- BRUCE Sabine
+- KUDAWOO
+- PIAK
 
 ## Objectif
 Nous souhaitons nous doter d'une application permettant de bien gérer les emplois du temps à ESGIS.
